@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-last-emperor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for The Last Emperor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-last-emperor/) |
+| **Get License** | [Music Rights & Licensing for The Last Emperor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-last-emperor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7e7b324d89de63a6da56ee32fe330b80b0fc9f72b50cb5f05c5ca0caa9c524d3` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
