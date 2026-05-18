@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-last-emperor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for The Last Emperor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-last-emperor/) |
+| **Get License** | [Commercial Licensing for The Last Emperor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-last-emperor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਮੇਰੇ ਦਿਲ ਦੀ ਧੜਕਣ ਬੋਲੇ ਮੇਰਾ dark soul
+> ਕਾਲੀ ਰਾਤ ਦੇ ਪਰਛਾਵੇਂ ਵਿੱਚ losing control
+> ਤੇਰੇ ਨੈਣਾਂ ਦੀ ਖਿੱਚ ਮੈਨੂੰ pulling me near
+> ਮੈਂ ਤਾਂ ਤੇਰਾ ਹੋ ਗਿਆ ਹਾਂ without any fear
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
